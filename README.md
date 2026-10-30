@@ -11,9 +11,7 @@ A hands-on course covering all major Amazon Bedrock AgentCore capabilities by bu
 
 Each module adds a new capability to Aria, so by the end of the course you have one complete, production-ready agent built incrementally — not a collection of isolated demos.
 
-**Author**: [Chetan Agrawal](https://in.linkedin.com/in/chetan-agrawal-30107310)  
 
-**Website**: [www.awswithchetan.com](https://www.awswithchetan.com)
 
 ---
 
