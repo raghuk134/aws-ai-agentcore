@@ -1,10 +1,7 @@
 # Building Production-ready AI Agents on AWS with Amazon Bedrock AgentCore
 
-This repo is a part of my course on Udemy where I have explained the architecture in detail and demonstrated complete deployment process for building AI Agent from scratch.
 
-**Course link** [Udemy | Build Production-Ready AI Agent on AWS with AgentCore](https://www.udemy.com/course/build-production-ready-ai-agent-on-aws/?referralCode=C3F97ED4D706F1112786)
 
-<img width="1920" height="1080" alt="course-title-udemy-5" src="https://github.com/user-attachments/assets/eb78f7c5-b180-418a-b89c-e3e85e81d7c8" />
 
 
 
